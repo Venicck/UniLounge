@@ -1,3 +1,5 @@
+![Icon](https://github.com/Venicck/UniLounge/assets/62417825/27445350-9cde-4901-b47b-bd4cd90d5d77)
+
 # UniLounge (ユニラウンジ)
 
 大人数ホワイトボード回答型クイズゲーム！

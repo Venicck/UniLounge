@@ -1,3 +1,5 @@
+<img width=10% src= "https://github.com/Venicck/UniLounge/assets/62417825/27445350-9cde-4901-b47b-bd4cd90d5d77">
+
 # UniLounge (ユニラウンジ)
 
 大人数ホワイトボード回答型クイズゲーム！
@@ -40,5 +42,3 @@ zipファイル直下にexeファイルなどが格納されているためそ�
 
 ### ルームに参加する
 ルームがある場合は一覧にルーム名と人数のボタンが表示されます。
-
-![Icon](https://github.com/Venicck/UniLounge/assets/62417825/27445350-9cde-4901-b47b-bd4cd90d5d77)

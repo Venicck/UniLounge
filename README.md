@@ -35,6 +35,7 @@ Unavailable in English.
 
 ## 起動方法 / Android
 UniLounge.apkをダウンロードし、インストールしてください。
+
 **提供元不明のアプリのインストールを許可**が必要です。
 
 > [!WARNING]

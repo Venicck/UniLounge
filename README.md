@@ -1,6 +1,6 @@
 <img width=10% src= "https://github.com/Venicck/UniLounge/assets/62417825/27445350-9cde-4901-b47b-bd4cd90d5d77">
 
-# UniLounge (ユニラウンジ)
+# UniLounge / ユニラウンジ
 
 大人数ホワイトボード回答型クイズゲーム！
 
@@ -42,7 +42,7 @@ Unavailable in English.
 > ChromeOSには上記の方法では対応していません。
 > ただし[開発環境でインストールして起動する方法](https://qiita.com/htnk/items/26fa3272bfdd488af8d3)もあるようです。
 
-各Releaseの下にAssetsがあります。その中に `UniLounge.apk` があるのでダウンロードしてください。
+各Releaseの下にAssetsがあります。その中に `UniLounge-v....apk` があるのでダウンロードしてください。
 
 UniLounge.apkをダウンロードし、インストールしてください。
 

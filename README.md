@@ -8,19 +8,15 @@
 
 [ダウンロードはこちらから](../../releases/)
 
-現在日本語しか対応していません。
+## プレイ制限について
 
-Unavailable in English.
-
-## 同時プレイ参加上限について
-
-このゲームはとあるサーバーを借りている事情で、
+このゲームはPhoton サーバーを無料借りている事情で、
 
 **サーバー全体で同時に最大20人**までしかプレイできません。
 
-何らかのエラーでルームに参加できなかった場合は...
+また、Firebaseを使用しているため、
 
-~察してください。~
+**一日あたりの通信容量が一定に達した日**はプレイできません。
 
 ## 起動方法 / Windows
 > [!caution]
@@ -64,11 +60,22 @@ UniLounge.apkをダウンロードし、インストールしてください。
 
 ## クイズをみんなでプレイ
 
-[クイズを作成](#クイズを作成) したら、[オンラインプレイ] へ移動しましょう。
-そのまま作成したクイズを使用できます！
+[クイズを作成](#クイズを作成) したら、[オンラインプレイ] へ移動しましょう。そのまま作成したクイズを使用できます！
 
 ### ルームを作成
 ルームホストになって自分の作ったクイズを出題できます。
 
 ### ルームに参加する
 ルームがある場合は一覧にルーム名と人数のボタンが表示されます。
+
+# Credit
+
+Code / UI / Design
+
+`Venicck`
+
+Special Thanks
+
+`Nasutaro, Masaking, ..... and YOU!`
+
+Font : [M PLUS 1](https://mplusfonts.github.io) SE : [効果音ラボ](https://soundeffect-lab.info) Multiplay Service : [Photon Realtime](https://www.photonengine.com/realtime) | [Firebase Cloud Storage](https://firebase.google.com/?hl=ja)

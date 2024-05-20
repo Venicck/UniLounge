@@ -74,11 +74,11 @@ UniLounge.apkをダウンロードし、インストールしてください。
 
 Code / UI / Design
 
-[`Venicck`](https://www.youtube.com/channel/venicck)
+[`Venicck`](https://www.youtube.com/@Venicck)
 
 BGM
 
-[`ただのパイナップル`](https://www.youtube.com/channel/UCRFlJY2svS4rn1azW3-t2_w)
+[`ただのパイナップル`](https://www.youtube.com/@Tadano_Painappulu)
 
 Special Thanks
 

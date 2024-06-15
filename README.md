@@ -28,7 +28,7 @@
 >
 > zipファイル直下にexeファイルなどが格納されているためそのまま展開するとすごいことになります。
 
-各Releaseの下にAssetsがあります。その中に `UniLounge-v..zip` があるのでダウンロードしてください。
+各Releaseの下にAssetsがあります。その中に `.zip` で終わるファイルがあるのでダウンロードしてください。
 
 **7zipでは「"UniLounge-v...\" に展開」や Windows標準の「すべて展開...」をご利用ください。**
 
@@ -42,9 +42,9 @@
 > ChromeOSには上記の方法では対応していません。
 > ただし[開発環境でインストールして起動する方法](https://qiita.com/htnk/items/26fa3272bfdd488af8d3)もあるようです。
 
-各Releaseの下にAssetsがあります。その中に `UniLounge-v....apk` があるのでダウンロードしてください。
+各Releaseの下にAssetsがあります。その中に `.apk` で終わるファイルがあるのでダウンロードしてください。
 
-UniLounge.apkをダウンロードし、インストールしてください。
+ダウンロードしたapkをインストールしてください。
 
 **提供元不明のアプリのインストールを許可**が必要です。
 
@@ -71,21 +71,3 @@ UniLounge.apkをダウンロードし、インストールしてください。
 
 ### ルームに参加する
 ルームがある場合は一覧にルーム名と人数のボタンが表示されます。
-
-# Credit
-
-Wanted:`圧倒的無音、絶望的デザインを改善してくれる方`
-
-Code / UI / Design
-
-[`Venicck`](https://www.youtube.com/@Venicck)
-
-BGM
-
-[`ただのパイナップル`](https://www.youtube.com/@Tadano_Painappulu)
-
-Special Thanks
-
-`Nasutaro, Masaking, ..... and YOU!`
-
-Font : [M PLUS 1](https://mplusfonts.github.io) SE : [効果音ラボ](https://soundeffect-lab.info) Multiplay Service : [Photon Realtime](https://www.photonengine.com/realtime) | [Firebase Cloud Storage](https://firebase.google.com/?hl=ja)
